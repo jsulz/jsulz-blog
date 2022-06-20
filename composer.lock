@@ -278,12 +278,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/jsulz/jsulz-theme.git",
-                "reference": "f08451dce63a2c9012e272480f7d49d37df1b43f"
+                "reference": "fdde034112c3959c85fb88e15e81ac85f37a2752"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jsulz/jsulz-theme/zipball/f08451dce63a2c9012e272480f7d49d37df1b43f",
-                "reference": "f08451dce63a2c9012e272480f7d49d37df1b43f",
+                "url": "https://api.github.com/repos/jsulz/jsulz-theme/zipball/fdde034112c3959c85fb88e15e81ac85f37a2752",
+                "reference": "fdde034112c3959c85fb88e15e81ac85f37a2752",
                 "shasum": ""
             },
             "require": {
@@ -299,7 +299,7 @@
                 "source": "https://github.com/jsulz/jsulz-theme/tree/main",
                 "issues": "https://github.com/jsulz/jsulz-theme/issues"
             },
-            "time": "2022-06-20T17:45:25+00:00"
+            "time": "2022-06-20T17:51:49+00:00"
         },
         {
             "name": "pantheon-systems/quicksilver-pushback",
